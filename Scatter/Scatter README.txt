@@ -1,4 +1,4 @@
-______________Scatter Beta Documentation and Readme______________
+______________Scatter Documentation and Readme______________
 developed and designed by rpg.aleksy
 
 ___________________________Description___________________________
